@@ -24,5 +24,5 @@ npm install --save-dev @openzeppelin/contracts
 ## Run comparison test
 
 ```
-npx hardhat run scripts/sample-script.js
+npx hardhat run scripts/gas-comparison.js
 ```
